@@ -2,16 +2,18 @@
 
 In this project, I play the role of a DBA (Database Administrator)
 
-THE SITUATION:
+• THE SITUATION:
+
 A new client, Bubs Glover, the owner of Bubs’ Bigtime Baby Booties, 
 has reached out to you for help building his business database from the ground up.
 
-THE OBJECTIVE:
+• THE OBJECTIVE:
+
 Use Your MySQL Database Administration skills to:
 Design a database from scratch, which will capture information about Bubs’ customers, 
 the purchases they make, his products, and his employees.
 
-SKILLS:
+• SKILLS:
 - Creating and Altering Schemas & Tables
 - Inserting, Updating & if necessary, Delete Records
 - Database Design
