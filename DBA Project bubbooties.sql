@@ -35,7 +35,7 @@ Which data goes in which tables? How should the tables relate to one another? */
 Include things like primary keys and foreign keys, and anything else you think you should have in the tables. 
 Make sure to use reasonable data types for each column. */
 
--- EER Diagram 
+-- EER Diagram image is uploaded in files
 
 /* 3- Create a schema called bubsbooties. Within that schema, create the tables that you have diagramed out. 
 Make sure they relate to each other, and that they have the same reasonable data types you selected previously. */
