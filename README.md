@@ -1,10 +1,10 @@
 # DatabaseAdminProject
 
-In this project I play the role of a DBA (Database Administrator)
+In this project, I play the role of a DBA (Database Administrator)
 
 THE SITUATION:
 A new client, Bubs Glover, the owner of Bubs’ Bigtime Baby Booties, 
-has reached out to you for help building his business a database from the ground up.
+has reached out to you for help building his business database from the ground up.
 
 THE OBJECTIVE:
 Use Your MySQL Database Administration skills to:
@@ -13,7 +13,7 @@ the purchases they make, his products, and his employees.
 
 SKILLS:
 - Creating and Altering Schemas & Tables
-- Inserting, Updating & if neccesary Delete Records
+- Inserting, Updating & if necessary, Delete Records
 - Database Design
 - Server Management
 - Managing Users & Permissions
